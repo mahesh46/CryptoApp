@@ -1,0 +1,563 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXContainerItemProxy section */
+		FC2ED6572D047EDE0027BBD3 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = FC2ED63E2D047EDD0027BBD3 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = FC2ED6452D047EDD0027BBD3;
+			remoteInfo = Coingecko_crpto_list;
+		};
+		FC2ED6612D047EDE0027BBD3 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = FC2ED63E2D047EDD0027BBD3 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = FC2ED6452D047EDD0027BBD3;
+			remoteInfo = Coingecko_crpto_list;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		FC2ED6462D047EDD0027BBD3 /* Coingecko_crpto_list.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Coingecko_crpto_list.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		FC2ED6562D047EDE0027BBD3 /* Coingecko_crpto_listTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Coingecko_crpto_listTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		FC2ED6602D047EDE0027BBD3 /* Coingecko_crpto_listUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Coingecko_crpto_listUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		FC2ED6482D047EDD0027BBD3 /* Coingecko_crpto_list */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = Coingecko_crpto_list;
+			sourceTree = "<group>";
+		};
+		FC2ED6592D047EDE0027BBD3 /* Coingecko_crpto_listTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = Coingecko_crpto_listTests;
+			sourceTree = "<group>";
+		};
+		FC2ED6632D047EDE0027BBD3 /* Coingecko_crpto_listUITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = Coingecko_crpto_listUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		FC2ED6432D047EDD0027BBD3 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FC2ED6532D047EDE0027BBD3 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FC2ED65D2D047EDE0027BBD3 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		FC2ED63D2D047EDD0027BBD3 = {
+			isa = PBXGroup;
+			children = (
+				FC2ED6482D047EDD0027BBD3 /* Coingecko_crpto_list */,
+				FC2ED6592D047EDE0027BBD3 /* Coingecko_crpto_listTests */,
+				FC2ED6632D047EDE0027BBD3 /* Coingecko_crpto_listUITests */,
+				FC2ED6472D047EDD0027BBD3 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		FC2ED6472D047EDD0027BBD3 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				FC2ED6462D047EDD0027BBD3 /* Coingecko_crpto_list.app */,
+				FC2ED6562D047EDE0027BBD3 /* Coingecko_crpto_listTests.xctest */,
+				FC2ED6602D047EDE0027BBD3 /* Coingecko_crpto_listUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		FC2ED6452D047EDD0027BBD3 /* Coingecko_crpto_list */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = FC2ED66A2D047EDE0027BBD3 /* Build configuration list for PBXNativeTarget "Coingecko_crpto_list" */;
+			buildPhases = (
+				FC2ED6422D047EDD0027BBD3 /* Sources */,
+				FC2ED6432D047EDD0027BBD3 /* Frameworks */,
+				FC2ED6442D047EDD0027BBD3 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				FC2ED6482D047EDD0027BBD3 /* Coingecko_crpto_list */,
+			);
+			name = Coingecko_crpto_list;
+			packageProductDependencies = (
+			);
+			productName = Coingecko_crpto_list;
+			productReference = FC2ED6462D047EDD0027BBD3 /* Coingecko_crpto_list.app */;
+			productType = "com.apple.product-type.application";
+		};
+		FC2ED6552D047EDE0027BBD3 /* Coingecko_crpto_listTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = FC2ED66D2D047EDE0027BBD3 /* Build configuration list for PBXNativeTarget "Coingecko_crpto_listTests" */;
+			buildPhases = (
+				FC2ED6522D047EDE0027BBD3 /* Sources */,
+				FC2ED6532D047EDE0027BBD3 /* Frameworks */,
+				FC2ED6542D047EDE0027BBD3 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				FC2ED6582D047EDE0027BBD3 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				FC2ED6592D047EDE0027BBD3 /* Coingecko_crpto_listTests */,
+			);
+			name = Coingecko_crpto_listTests;
+			packageProductDependencies = (
+			);
+			productName = Coingecko_crpto_listTests;
+			productReference = FC2ED6562D047EDE0027BBD3 /* Coingecko_crpto_listTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		FC2ED65F2D047EDE0027BBD3 /* Coingecko_crpto_listUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = FC2ED6702D047EDE0027BBD3 /* Build configuration list for PBXNativeTarget "Coingecko_crpto_listUITests" */;
+			buildPhases = (
+				FC2ED65C2D047EDE0027BBD3 /* Sources */,
+				FC2ED65D2D047EDE0027BBD3 /* Frameworks */,
+				FC2ED65E2D047EDE0027BBD3 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				FC2ED6622D047EDE0027BBD3 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				FC2ED6632D047EDE0027BBD3 /* Coingecko_crpto_listUITests */,
+			);
+			name = Coingecko_crpto_listUITests;
+			packageProductDependencies = (
+			);
+			productName = Coingecko_crpto_listUITests;
+			productReference = FC2ED6602D047EDE0027BBD3 /* Coingecko_crpto_listUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		FC2ED63E2D047EDD0027BBD3 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1610;
+				LastUpgradeCheck = 1610;
+				TargetAttributes = {
+					FC2ED6452D047EDD0027BBD3 = {
+						CreatedOnToolsVersion = 16.1;
+					};
+					FC2ED6552D047EDE0027BBD3 = {
+						CreatedOnToolsVersion = 16.1;
+						TestTargetID = FC2ED6452D047EDD0027BBD3;
+					};
+					FC2ED65F2D047EDE0027BBD3 = {
+						CreatedOnToolsVersion = 16.1;
+						TestTargetID = FC2ED6452D047EDD0027BBD3;
+					};
+				};
+			};
+			buildConfigurationList = FC2ED6412D047EDD0027BBD3 /* Build configuration list for PBXProject "Coingecko_crpto_list" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = FC2ED63D2D047EDD0027BBD3;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = FC2ED6472D047EDD0027BBD3 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				FC2ED6452D047EDD0027BBD3 /* Coingecko_crpto_list */,
+				FC2ED6552D047EDE0027BBD3 /* Coingecko_crpto_listTests */,
+				FC2ED65F2D047EDE0027BBD3 /* Coingecko_crpto_listUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		FC2ED6442D047EDD0027BBD3 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FC2ED6542D047EDE0027BBD3 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FC2ED65E2D047EDE0027BBD3 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		FC2ED6422D047EDD0027BBD3 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FC2ED6522D047EDE0027BBD3 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FC2ED65C2D047EDE0027BBD3 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		FC2ED6582D047EDE0027BBD3 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = FC2ED6452D047EDD0027BBD3 /* Coingecko_crpto_list */;
+			targetProxy = FC2ED6572D047EDE0027BBD3 /* PBXContainerItemProxy */;
+		};
+		FC2ED6622D047EDE0027BBD3 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = FC2ED6452D047EDD0027BBD3 /* Coingecko_crpto_list */;
+			targetProxy = FC2ED6612D047EDE0027BBD3 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		FC2ED6682D047EDE0027BBD3 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.1;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		FC2ED6692D047EDE0027BBD3 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.1;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		FC2ED66B2D047EDE0027BBD3 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"Coingecko_crpto_list/Preview Content\"";
+				DEVELOPMENT_TEAM = SAZ5K2949S;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.ladtechnologies.Coingecko-crpto-list";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		FC2ED66C2D047EDE0027BBD3 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"Coingecko_crpto_list/Preview Content\"";
+				DEVELOPMENT_TEAM = SAZ5K2949S;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.ladtechnologies.Coingecko-crpto-list";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		FC2ED66E2D047EDE0027BBD3 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = SAZ5K2949S;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.1;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.ladtechnologies.Coingecko-crpto-listTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Coingecko_crpto_list.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Coingecko_crpto_list";
+			};
+			name = Debug;
+		};
+		FC2ED66F2D047EDE0027BBD3 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = SAZ5K2949S;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.1;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.ladtechnologies.Coingecko-crpto-listTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Coingecko_crpto_list.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Coingecko_crpto_list";
+			};
+			name = Release;
+		};
+		FC2ED6712D047EDE0027BBD3 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = SAZ5K2949S;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.ladtechnologies.Coingecko-crpto-listUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = Coingecko_crpto_list;
+			};
+			name = Debug;
+		};
+		FC2ED6722D047EDE0027BBD3 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = SAZ5K2949S;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.ladtechnologies.Coingecko-crpto-listUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = Coingecko_crpto_list;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		FC2ED6412D047EDD0027BBD3 /* Build configuration list for PBXProject "Coingecko_crpto_list" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FC2ED6682D047EDE0027BBD3 /* Debug */,
+				FC2ED6692D047EDE0027BBD3 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		FC2ED66A2D047EDE0027BBD3 /* Build configuration list for PBXNativeTarget "Coingecko_crpto_list" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FC2ED66B2D047EDE0027BBD3 /* Debug */,
+				FC2ED66C2D047EDE0027BBD3 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		FC2ED66D2D047EDE0027BBD3 /* Build configuration list for PBXNativeTarget "Coingecko_crpto_listTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FC2ED66E2D047EDE0027BBD3 /* Debug */,
+				FC2ED66F2D047EDE0027BBD3 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		FC2ED6702D047EDE0027BBD3 /* Build configuration list for PBXNativeTarget "Coingecko_crpto_listUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FC2ED6712D047EDE0027BBD3 /* Debug */,
+				FC2ED6722D047EDE0027BBD3 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = FC2ED63E2D047EDD0027BBD3 /* Project object */;
+}
