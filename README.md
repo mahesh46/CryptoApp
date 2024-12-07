@@ -1,5 +1,5 @@
 # CryptoApp
-Coingecko api cryto App in SwiftUI.
+Coingecko api, crypto App in SwiftUI.
 
 
 >List cryto coins 
